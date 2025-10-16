@@ -25,9 +25,9 @@ This simulates how computers execute code literally and without context.
 
 ## 👥 Setup
 1. Divide students into **5 teams** of 3 members.  
-2. The substitute teach Assign one **Judge** (can rotate, or the sub acts as judge).  
+2. The teacher (or sub) can assign one **Judge** (can rotate, or the teacher can act as judge).  
 3. Each round, give each team:  
-   - A **small pile of mixed LEGO bricks** (10–15 pieces)  
+   - A **small pile of mixed LEGO bricks** (8-10 pieces)  
    - 1 blank sheet of paper  
    - 1 pencil or pen  
 
@@ -35,11 +35,11 @@ This simulates how computers execute code literally and without context.
 ## Teams: 
 | Team | Members |
 |------|----------|
-| **Team 1** | Tyler, Peter, Illia |
-| **Team 2** | Michael F., Logan, Connor, Max R. |
-| **Team 3** | Adam, Luke, Bradley |
-| **Team 4** | Maximilian K., Matthew, Gavin |
-| **Team 5** | Dylan, Michael M., Max H. |
+| **Team 1** | enter student names |
+| **Team 2** | enter student names |
+| **Team 3** | enter student names |
+| **Team 4** | enter student names |
+| **Team 5** | enter student names |
 
 
 ---
@@ -48,7 +48,7 @@ This simulates how computers execute code literally and without context.
 ## 🧩 Rules
 1. Each team creates two lego structures AND selects lego pieces of the exact same kind so that another team can replicate it using an algorithm.  These finished structures will be accompanied with the written algorithm.
 
-   - Each model should be simple and must include 8 pieces (no more, no less).  
+   - Each model should be simple and must include 8-10 pieces (no more, no less).  
 2. Programmers must write two **algorithms** for two builds — a step-by-step list of build instructions.  
    - Use descriptions like “2x4 brick,” “place horizontally,” “stack centered on top.”  
    - **Do not** use colors or drawings.
@@ -77,7 +77,7 @@ This simulates how computers execute code literally and without context.
 ## 🧱 Model Guidelines
 Keep builds **simple and neutral** (no color clues).  
 Use only shape, size, and position to describe.
-**Again, use 8 pieces only.**
+**Again, use 8-10 pieces only.**
 
 ---
 
@@ -104,9 +104,7 @@ Reward: **Top Algorithmic Builder Team** (highest score) gets bragging rights.
 - Blank paper or index cards  
 - Pencils or pens  
 - Timer or stopwatch  
-- Printed scoring rubrics (optional)  
-- This handout for the sub
-
+- Printed scoring rubric (this handout)  
 
 ## 🔁 Round Robin Table
 Use this table to track which team’s algorithm is used by which executor team.  
