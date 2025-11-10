@@ -36,7 +36,7 @@ You will build a 7–9 slide presentation about **one** career you researched in
 * **Alt Text** for every image/icon.
 * Maintain contrast and whitespace; avoid dense text.
 * Subtle transitions only; animations only where they help pacing.
-* Add **speaker notes** to at least slides as talking points (DO NOT overload slides).
+* Add **speaker notes** to at least 3 slides as talking points (DO NOT overload slides).
 
 ## Sources / Academic Honesty
 
@@ -62,4 +62,5 @@ You will build a 7–9 slide presentation about **one** career you researched in
 * Group/ungroup **Ctrl+G / Ctrl+Shift+G**
 * Align objects: **Format → Align** (Left/Center/Right; Middle/Top/Bottom)
 * Paste Link chart: **Home → Paste ▼ → Paste Special → Paste Link**
+
 
