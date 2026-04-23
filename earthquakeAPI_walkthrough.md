@@ -1,9 +1,8 @@
 # Earthquake API Walkthrough
 
-## From a live USGS feed to a map in Tableau Public — in about an hour
+## From a live USGS feed to a map in Tableau Public 
 
-**Who this is for:** Visiting students with little or no Python experience.
-**What you'll leave with:**
+**What you'll learn, and do:**
 
 1. A real JSON file pulled from the USGS live earthquake feed.
 2. A Python script (run in IDLE) that turns that JSON into a clean CSV.
@@ -14,9 +13,7 @@
 - A web browser (Chrome, Edge, Firefox, or Safari — any works).
 - **IDLE** — Python's built-in editor. Already installed on lab machines.
 - A free **Tableau Public** account.
-
-No `pip install`, no Anaconda download, no package managers. We'll use only what ships with Python.
-
+  
 ---
 
 ## Part 0 — Setup (about 5 minutes)
@@ -24,7 +21,6 @@ No `pip install`, no Anaconda download, no package managers. We'll use only what
 ### 0.1 Confirm IDLE opens
 
 - **Windows:** Start menu → type `IDLE` → open **IDLE (Python 3.x)**.
-- **Mac:** Spotlight (⌘ + Space) → type `IDLE` → Enter.
 
 You should see a window titled **Python 3.x.x Shell** with a `>>>` prompt. That's the Python interpreter. We'll come back to it.
 
